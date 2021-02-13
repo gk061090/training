@@ -23,7 +23,7 @@ export const App = () => {
 
   return (
     <div>
-      <p>App (deploy test CI with Tasya)</p>
+      <p>App</p>
       <DataContext.Provider value={{ data, update }}>
         <Form />
         <List />
