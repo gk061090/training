@@ -2,7 +2,7 @@
   "name": "training",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gk061090.github.io/traning",
+  "homepage": "http://gk061090.github.io/training",
   "dependencies": {
     "@hookform/resolvers": "^1.3.4",
     "@material-ui/core": "^4.11.3",
