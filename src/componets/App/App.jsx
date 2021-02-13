@@ -23,7 +23,7 @@ export const App = () => {
 
   return (
     <div>
-      <p>App</p>
+      <p>App (deploy test CI)</p>
       <DataContext.Provider value={{ data, update }}>
         <Form />
         <List />
